@@ -1,0 +1,7 @@
+# Dependencies for the analysis; versions will be pinned after verification.
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
